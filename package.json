@@ -1,0 +1,23 @@
+{
+  "name": "teooria",
+  "version": "1.0.0",
+  "description": "teooriaeksami app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hatemets/teooria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hatemets/teooria/issues"
+  },
+  "homepage": "https://github.com/hatemets/teooria#readme",
+  "dependencies": {
+    "puppeteer": "^3.2.0"
+  }
+}
