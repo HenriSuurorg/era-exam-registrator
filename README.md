@@ -1,7 +1,1 @@
- _____ _____ ___   ___  ____  ___    _    
-|_   _| ____/ _ \ / _ \|  _ \|_ _|  / \   
-  | | |  _|| | | | | | | |_) || |  / _ \  
-  | | | |__| |_| | |_| |  _ < | | / ___ \ 
-  |_| |_____\___/ \___/|_| \_\___/_/   \_\
-
-Get your times straight with <i>Teooria</i>!
+> a NodeJs bot that looks for theory and driving examination dates from the Estonian Road Administration webpage and registers the user when a nearby date opens
