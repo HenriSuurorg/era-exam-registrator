@@ -1,4 +1,4 @@
-# Estonian Road Administration examination registrator
+# ERA examination registrator
 > a NodeJs bot that looks for theory and driving examination dates on the Estonian Road Administration webpage and registers the user when a nearby date opens. Reduces the average queue for the user from ~3 months to less than a week
 
 ## Instructions
